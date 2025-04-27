@@ -1,1 +1,1 @@
-# rio-coffee-shops
+Coffee shops of Rio
